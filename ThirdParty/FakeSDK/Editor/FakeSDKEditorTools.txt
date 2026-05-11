@@ -1,2 +1,0 @@
-﻿FakeSDK Editor extension placeholder.
-
