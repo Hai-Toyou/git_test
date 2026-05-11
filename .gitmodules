@@ -1,0 +1,3 @@
+[submodule "ThirdParty/FakeSDK"]
+	path = ThirdParty/FakeSDK
+	url = git@github.com:Hai-Toyou/git_test_submodule.git
