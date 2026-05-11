@@ -1,0 +1,3 @@
+﻿Window: BattleHudWindow
+Widgets: HPBar, SkillBar, Minimap.
+

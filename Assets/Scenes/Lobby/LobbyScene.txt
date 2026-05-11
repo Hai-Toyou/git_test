@@ -1,0 +1,3 @@
+﻿Scene: Lobby
+Contains social and matchmaking entry.
+

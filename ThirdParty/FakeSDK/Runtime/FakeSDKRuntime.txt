@@ -1,0 +1,2 @@
+﻿FakeSDK Runtime API placeholder.
+

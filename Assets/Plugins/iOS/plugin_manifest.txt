@@ -1,0 +1,2 @@
+﻿Fake iOS plugin manifest placeholder.
+

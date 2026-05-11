@@ -1,0 +1,3 @@
+﻿TestSuite: CombatSystemTests
+Cases: DamageCalc, CritRateClamp.
+

@@ -1,0 +1,3 @@
+﻿AddressableGroup: characters_group
+Entries: hero, enemy_a.
+

@@ -1,0 +1,1 @@
+﻿Prop placeholder: lamp_post_a

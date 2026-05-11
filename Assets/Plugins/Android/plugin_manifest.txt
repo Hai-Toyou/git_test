@@ -1,0 +1,2 @@
+﻿Fake Android plugin manifest placeholder.
+

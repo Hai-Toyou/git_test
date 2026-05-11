@@ -1,0 +1,4 @@
+﻿com.unity.addressables
+com.unity.inputsystem
+com.unity.textmeshpro
+

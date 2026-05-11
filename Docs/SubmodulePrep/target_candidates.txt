@@ -1,0 +1,3 @@
+﻿CandidateA: Assets/Scripts/GamePlay
+CandidateB: ThirdParty/FakeSDK
+

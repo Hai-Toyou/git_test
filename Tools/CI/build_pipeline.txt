@@ -1,0 +1,2 @@
+﻿Steps: Restore -> Build -> Test -> Package
+

@@ -1,0 +1,3 @@
+﻿Window: LobbyMainWindow
+Panels: Friends, Store, Events.
+

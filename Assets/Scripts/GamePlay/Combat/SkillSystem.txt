@@ -1,0 +1,3 @@
+﻿Module: SkillSystem
+Handles cast validation and cooldown.
+

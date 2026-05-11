@@ -1,0 +1,3 @@
+﻿Core -> Gameplay -> UI
+Assets split by feature and type.
+

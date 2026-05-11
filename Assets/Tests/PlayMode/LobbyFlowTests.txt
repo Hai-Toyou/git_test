@@ -1,0 +1,3 @@
+﻿TestSuite: LobbyFlowTests
+Cases: LoginToLobby, LobbyToMatch.
+

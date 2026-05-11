@@ -1,0 +1,3 @@
+﻿UIRoot: Singleton
+Manages windows and layering.
+

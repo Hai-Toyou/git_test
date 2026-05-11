@@ -1,0 +1,2 @@
+﻿recent_scene=Assets/Scenes/Lobby/LobbyScene.unity
+

@@ -1,0 +1,3 @@
+﻿Module: InventoryService
+Stores bag items and currency snapshots.
+
